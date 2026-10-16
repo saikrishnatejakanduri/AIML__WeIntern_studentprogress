@@ -1,0 +1,12 @@
+column,type,meaning,analysis_role
+student_id,Identifier,Unique synthetic student record ID,Trace records; exclude from trends
+gender,Categorical,Self-reported gender category in the simulated data,Check category consistency and representation
+age,Numerical,Student age in years,Describe the sample; treat cautiously
+attendance_pct,Numerical,Attendance percentage from 0 to 100,Compare attendance with final score
+study_hours_per_week,Numerical,Reported study time per week,Compare study time with final score
+assignment_score,Numerical,Assignment score out of 100,Academic performance indicator
+midterm_score,Numerical,Midterm score out of 100,Academic performance indicator
+final_score,Target / performance,Final score out of 100,Main outcome analysed
+parental_education,Categorical,Parental education category,Describe categories; no causal claim
+internet_access,Categorical,Reported internet access (Yes/No/Unknown),Explore possible resource differences
+extra_activities,Categorical,Reported participation in extra activities,Compare score distributions

@@ -1,0 +1,5 @@
+1. Pilot an early-support review for students with repeated low attendance or falling assessment scores; use human review rather than an automated label.
+2. Offer study-planning resources and optional tutoring to students who request help, then evaluate whether the support improves outcomes.
+3. Use assignment and midterm performance as discussion prompts for teachers, while considering course difficulty and grading differences.
+4. Improve completeness of fields such as internet access and parental education, and document why each field is collected.
+5. Validate the patterns on a real, representative dataset and examine differences across groups before adopting thresholds or interventions.

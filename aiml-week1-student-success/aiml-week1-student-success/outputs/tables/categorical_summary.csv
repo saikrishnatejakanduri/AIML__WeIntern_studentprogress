@@ -1,0 +1,17 @@
+column,category,count,percent
+gender,Male,564,47.68
+gender,Female,557,47.08
+gender,Other,44,3.72
+gender,Unknown,18,1.52
+parental_education,High School,398,33.64
+parental_education,Bachelor's,347,29.33
+parental_education,Master's,177,14.96
+parental_education,Other,158,13.36
+parental_education,Doctorate,68,5.75
+parental_education,Unknown,35,2.96
+internet_access,Yes,948,80.14
+internet_access,No,216,18.26
+internet_access,Unknown,19,1.61
+extra_activities,Yes,605,51.14
+extra_activities,No,556,47.0
+extra_activities,Unknown,22,1.86

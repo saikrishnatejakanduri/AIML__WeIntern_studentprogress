@@ -1,0 +1,8 @@
+1. The cleaned dataset contains 1,183 records. Final scores average 76.2/100 (median 77.2; standard deviation 11.8).
+2. Study hours and final score have a Pearson correlation of r = 0.51, a positive linear association in this simulated sample.
+3. Attendance and final score have a Pearson correlation of r = 0.43; this is descriptive and does not show that attendance alone causes a score change.
+4. Assignment score and final score have a Pearson correlation of r = 0.70.
+5. Midterm score and final score have a Pearson correlation of r = 0.74.
+6. 23.3% of cleaned records have attendance below 75%; this threshold is an illustrative monitoring flag, not a validated intervention cut-off.
+7. 1.7% of cleaned records have final scores below 50/100; these records could be reviewed as a group in a real pilot, with safeguards and context.
+8. 1.6% of records have internet access recorded as Unknown after cleaning, indicating a need to improve response completeness.

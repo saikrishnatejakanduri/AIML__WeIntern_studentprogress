@@ -1,0 +1,18 @@
+{
+  "raw_rows": 1212,
+  "clean_rows": 1183,
+  "raw_columns": 11,
+  "duplicates_removed": 12,
+  "target_rows_dropped": 17,
+  "final_mean": 76.21656804733728,
+  "final_median": 77.2,
+  "final_std": 11.790306726823617,
+  "study_final_corr": 0.5096623092300995,
+  "attendance_final_corr": 0.42691042416795055,
+  "assignment_final_corr": 0.7025496409116467,
+  "midterm_final_corr": 0.742925486303868,
+  "low_attendance_pct": 23.330515638207945,
+  "below_50_pct": 1.69061707523246,
+  "unknown_internet_pct": 1.6060862214708367,
+  "activity_mean_gap_yes_minus_no": 3.151335691777163
+}

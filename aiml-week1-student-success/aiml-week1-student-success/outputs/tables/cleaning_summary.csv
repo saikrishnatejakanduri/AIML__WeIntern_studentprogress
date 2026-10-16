@@ -1,0 +1,7 @@
+metric,value,note
+Rows in raw file,1212,Includes deliberately inserted exact duplicates
+Exact duplicate rows removed,12,Identical full rows; first occurrence retained
+Rows after duplicate removal,1200,Before range checks / target handling
+Rows dropped for missing or invalid final_score,17,Target values were not imputed
+Final cleaned rows,1183,After final unique-ID check
+Rows lost from raw to clean,29,Duplicate removal plus rows lacking a valid final score
